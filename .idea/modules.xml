@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BankingSystem-master/src/BankingSystem-master.iml" filepath="$PROJECT_DIR$/../BankingSystem-master/src/BankingSystem-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solo/BankingSystem-master/src/BankingSystem-master1.iml" filepath="$PROJECT_DIR$/../solo/BankingSystem-master/src/BankingSystem-master1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Project.iml" filepath="$PROJECT_DIR$/Java-Project.iml" />
+    </modules>
+  </component>
+</project>
